@@ -1,5 +1,6 @@
-body {
-  font-family: 'Open Sans', sans-serif;
+html {
+  font-family: "Open Sans", sans-serif;
+  background-color: #fff;
 }
 
 label {
@@ -8,4 +9,17 @@ label {
 
 button {
   text-align: center;
+  color: #f2f2f2;
+}
+
+h1 {
+  border-bottom: 1px solid #000;
+}
+
+@media only screen and (min-width: 60em) {
+
+  div {
+    padding: 0;
+  }
+
 }
