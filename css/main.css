@@ -1,0 +1,11 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+label {
+  display: block;
+}
+
+button {
+  text-align: center;
+}
